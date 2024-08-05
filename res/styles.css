@@ -1,0 +1,20 @@
+.shape-hover {
+    -fx-background-color: #9b9b9b;
+}
+
+.shape-hover:hover {
+    -fx-background-color: #0e8ecb !important;
+}
+
+.shape-selected {
+    -fx-border-color: #0e8ecb;
+    -fx-border-width: 2;
+}
+
+.choose-brush-width:hover {
+    -fx-background-color: #9b9b9b;
+}
+
+.cancel-button:hover {
+    -fx-background-color: #6b6b6b !important;
+}
